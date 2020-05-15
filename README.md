@@ -30,7 +30,7 @@ A Password Generating Algorithm to generate password based in users inputs.
 		
 	@improvement Scope
 		1. instead of random shuffling, can create a shuffle algorithm, which takes input from user and shuffle accordingly.
-		2. ',; is not considered as special char here, the algo can be mould to use ',' also in password
+		2. ',' is not considered as special char here, the algo can be mould to use ',' also in password
 		3. password generation time can be optimized
 		4. unncessary assumptions can be removed and algo can be refactored.
 		5. other small boundry cases improvemnts still possible.
