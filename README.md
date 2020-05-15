@@ -1,5 +1,5 @@
 # PasswordGenerator
-A Password Generating Algorithm to generate User friendly Passwords. 
+A Password Generating Algorithm to generate password based in users inputs. 
 
 
 # Algorithm
