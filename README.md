@@ -38,7 +38,7 @@ A Password Generating Algorithm to generate password based in users inputs.
      */
      
 # download the Andorid App
-[Password Genenator](https://github.com/vimaltiwari2612/JustWallpapers/blob/master/Just%20Wallpapers.apk?raw=true)
+[Password Genenator](https://github.com/vimaltiwari2612/PasswordGenerator/blob/master/Android%20Impl/Password%20Generator.apk?raw=true)
 
 
 # screenshots
