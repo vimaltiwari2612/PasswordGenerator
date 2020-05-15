@@ -44,6 +44,8 @@ A Password Generating Algorithm to generate password based in users inputs.
 # screenshots
 ![screenshot](https://github.com/vimaltiwari2612/PasswordGenerator/blob/master/screenshots/1.PNG)
 
+;# Demo
+[DEMO](https://github.com/vimaltiwari2612/PasswordGenerator/blob/master/bandicam%202020-05-15%2018-29-34-344.mp4);
 
 Have fun!!
 
